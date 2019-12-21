@@ -1,0 +1,54 @@
+body{
+  line-height: 2;
+  background: black;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  margin-top: 0;
+
+}
+.container{
+  width: 40%;
+  margin: 0 auto;
+  background: white;
+
+}
+#form{
+  padding:3% 8%;
+}
+input{
+  height: 1.8em;
+  margin-bottom: 3em;
+}
+select{
+  width: 10em;
+  height: 1.8em;
+  margin-bottom: 3em;
+}
+.contain{
+  display:block;
+}
+span{
+  border-bottom-left-radius: 20% 50%;
+  border-top-left-radius: 20% 50%;
+  border-bottom-right-radius: 20% 50%;
+  border-top-right-radius: 20% 50%;
+  padding: 0em 0.2em;
+}
+.input-style{
+  margin-bottom: 1em;
+}
+.radio-checkbox{
+  margin-bottom: 3em;
+}
+
+.submit-btn{
+	background-color:#46b5d1;
+	border-radius:10px;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:4px 18px;
+  height: 3em;
+}
+  
